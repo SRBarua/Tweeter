@@ -10653,6 +10653,9 @@ a.text-dark:focus {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+body{
+    background-color: #909090;
+}
 
 .col {
   text-align: center;
@@ -10679,4 +10682,3 @@ a.text-dark:focus {
   margin: 0px 0px;
   text-align: center;
 }
-
